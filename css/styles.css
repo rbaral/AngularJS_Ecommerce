@@ -1,0 +1,46 @@
+.page-header{
+	margin-top : 0;
+}
+
+.featuredImg{
+	margin-bottom: 15px;
+}
+
+.hidden {
+     display:none;
+}
+
+.show {
+      display: inline;
+}
+
+.jumbotron-styled {
+    margin-bottom: 0px;
+    background-image: url(../img/index2.jpg);
+    background-position: 0% 25%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    text-shadow: black 0.3em 0.3em 0.3em;
+}
+
+.Mybody{
+    padding-bottom: 70px;
+}
+
+.img-responsive {
+   height:100%;
+}
+
+.image-container{
+	width:140px;
+	height:140px;
+}
+
+.myQty{
+	width:150px;
+}
+
+.imgBottom {padding:5px; height:55px; width: 55px; border-radius: 14px;};
+.imgClear {};
+.imgOpaque {opacity: .5;};
